@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Petition from the Island of Silley, being in the vvest part of England vvherein some of their grievances and oppressions are laid open and manifested, together with their sincere affection to the prosperity and good of the Kingdome of England : sent by the last post from the aforesaid island of Silley in a letter to some of their countrey men in London, desiring to have it published with a generall consent of the Island of Silley : wherein is exprest the state of the tyme, and the Diurnall occurences of this present age.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28051</idno><idno type="EEBO-CITATION">12277591</idno>
+  <idno type="VID">197460</idno>
+  <idno type="EEBO-PROQUEST">2240972885</idno>
+  
+            <idno type="STC">Wing P1755</idno>
+            <idno type="OCLC">12277591</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28051)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197460)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 246:E110, no 17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Petition from the Island of Silley, being in the vvest part of England vvherein some of their grievances and oppressions are laid open and manifested, together with their sincere affection to the prosperity and good of the Kingdome of England : sent by the last post from the aforesaid island of Silley in a letter to some of their countrey men in London, desiring to have it published with a generall consent of the Island of Silley : wherein is exprest the state of the tyme, and the Diurnall occurences of this present age.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Bankes,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>August 12, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Scilly, Isles of (England) --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197460:1"/>
+            <p> A PETITION From the Island of SILLEY, Being in the VVest part of <hi>ENGLAND.</hi>
+            </p>
+            <p>VVherein some of their grie<g ref="char:EOLhyphen"/>vances and oppressions are laid open and manifested, together with their sincere affection to the prosperity and good of the Kingdome of <hi>England.</hi>
+            </p>
+            <p>Sent by the last Post from the afore<g ref="char:EOLhyphen"/>said Island of <hi>Silley,</hi> in a Letter to some of their Country men in <hi>London,</hi> desiring to have it pub<g ref="char:EOLhyphen"/>lished with a generall consent of the Island of <hi>Silley.</hi>
+            </p>
+            <p>Wherein is exprest the state of the tyme, and the Diurnall occurrences of this present age.</p>
+            <p>
+               <hi>London,</hi> printed for <hi>Thomas Bankes. August.</hi> 12. 1642.</p>
+            <pb facs="tcp:197460:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:197460:2"/>
+            <head>A Petition from the Island of Silley, being in the VVest part of <hi>England.</hi>
+            </head>
+            <p>THat whereas we the Inhabitants of <hi>Silley</hi> being neither wise mens eldest sonnes, nor possessed of any great meanes whereby our witts and good<g ref="char:EOLhyphen"/>willes should be held in contempt, have not hitherto da<g ref="char:EOLhyphen"/>red for feare of derison to send forth handfulls of our af<g ref="char:EOLhyphen"/>fections in blacke and white, or to make our tedious protestations and Petitions as the Leatherbreeches in the severall Counties of <hi>England</hi> have done, though our intentions towards the King and Parliament are as cleare as classe, and more transparent than the obscure maligni<g ref="char:EOLhyphen"/>ry of those Countrey Annimalls and quarrelling Cave<g ref="char:EOLhyphen"/>leires, men of great stomacks, better feeders than fight<g ref="char:EOLhyphen"/>ers: We therefore knowing that foolish modesty can never make us thrive in worldly favour, have ioyned all the strength of our wits together, and little enough to draw forth and discribe the face and picture of our sor<g ref="char:EOLhyphen"/>rowes and grievances, and also in ample manner lay
+<pb n="2" facs="tcp:197460:3"/> downe the substance of our desires. Shewing first that we being poore innocent creatures of the Island of <hi>Silley,</hi> that have no golden fleeces on our backes, whereby to tempt any iniuries, nor have any Lawyers amongst us to pole our estates, nor any swaggering friends and ac<g ref="char:EOLhyphen"/>quaintance that will bee ready to borrow money of us and never pay us againe, nor any detractors or backbiters to blast our reputation are like a people therefore much troubled in minde that wee should live unworthy of wrongs and iniuries, which are so com<g ref="char:EOLhyphen"/>mon and frequent in <hi>England,</hi> that neither the King nor subiects can escape the sting of malicious tongues, whereas wee surfet with content, never fearing any thing, no not so much as a Sergeant as many Gentle<g ref="char:EOLhyphen"/>men doe in <hi>England.</hi> And now of late having understood by fisherboate that came from <hi>England</hi> of certaine dis<g ref="char:EOLhyphen"/>cords arising betweene the King and Parliament, upon what ground and small reasons wee cannot apprehend, so that the whole land is like to be divided into fractions for picking quarrells in the Church-windowes, we smel<g ref="char:EOLhyphen"/>ling our danger a farre off, and out of a deare affection to our selves, esteeming our lives to bee presious in our estimation, doe therefore earnestly and hartily desire that we may dissemble our selves together in a posture of warre, and that we may have Bills, Bowes, Arrowes and Speares, and all kind of murdering engines sent unto us, whereby wee may according to our necessity arme our corporall bodyes, and if our enemies should appeare in field (which we hartily wish they may never doe) we may kill them seven miles before they come neere us, and moreover we desire that wee may have some redd terrible ill looking Uisard sent to us, together with a ship
+<pb n="3" facs="tcp:197460:3"/> full of the strongest Garlike so that having put on those scarefull Vizards we may affright our enemies with our very lookes, and blow them away, with our strong sen<g ref="char:EOLhyphen"/>ted stinking breaths.</p>
+            <p>As for Bishops we care not greatly whether there be any in <hi>England</hi> or no, for our constitution is not so hot that we can endure none, nor our affections so could, that we cannot permitt any, onely we humbly desire that all our Bishops may be spirituall Bakers, that they may make their bread of doctrine as gentle as Ginger Bread, so that old women may mumble it up as in old time they did their <hi>Pater Nost<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs,</hi> and we beseech these Ghost<g ref="char:EOLhyphen"/>ly Fathers that they would bee sure to fleece their Dio<g ref="char:EOLhyphen"/>cesses, and to put in some poore Scholler of <hi>Silley</hi> or some Silly Scholler to be their Curate in some Country vil<g ref="char:EOLhyphen"/>lage, and moreover that they would never straine their voyces to preach too much, and that never doing any good while they live, they may after their decease build a Colledge in one of the two Universities.</p>
+            <p>And moreover it is our humble desire that wee may be better acquainted with the new sects of Roundheads being so like to us the inhabitants of <hi>Silley,</hi> for all their doctrines, opinions and tenets which they main<g ref="char:EOLhyphen"/>taine doe all smell strong of the Isle of <hi>Silley,</hi> so that as the Papists doe fetch the derivation of their Church from Rome, surely the Brownist and these Roundheads had their originall from one that was borne in <hi>Silley,</hi> for is not their madde kinde of Preaching in Tubb<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a silly Faction, are not their teaching against the backe of a <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>haire and ignorant instructing at a Tables end all silley <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nventions, besides their short circumcised hayres makes them all looke like <hi>Sillyes,</hi> it is ourhumble petition there<g ref="char:EOLhyphen"/>fore
+<pb n="4" facs="tcp:197460:4"/> that they may all domineere in the city, and pull downe Ministers out of the Pulpit and never troubled by the King or Parliament, because it doth appeare by their mad actions, factions, and disturbances of the Common-wealth that they are a kin to the brethren to the brethren of <hi>Silley</hi> as well as of <hi>Scotland,</hi> and if they should lacke meanes, which I hope they will scorne to doe, the Silley Roundheads being willing to helpeone a<g ref="char:EOLhyphen"/>nother, I would have such as be afflicted there to remove themselves, &amp; not to fly over into new <hi>England,</hi> but unto the Isle of Silley, and I thinke it were a great happinesse to the Kingdome if all the Rounheads would leave <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and with one generall consent goe to inhabit in the Isle of <hi>Silley,</hi> that there they might exercise their silly R<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>igious feates free from the censure of the world, and the trouble of the Common-wealth; who doth wish them all hang'd on signe posts, we desire them therefore in this our Petition to pack up their tooles being trades<g ref="char:EOLhyphen"/>men, and take with them their wives and children, and a Bible or two, and so the conduct of their revealing Spirit, passe over to inhabit in the Islland of <hi>Silley.</hi>
+            </p>
+            <p>Humbly likewise beseeching that the King and Parliament would not be dogged one towards a<g ref="char:EOLhyphen"/>nother, but concurre in affection and abominable love one to another, for discord doth bring forth nothing but murdering and Killing in kindnesse, and if our skinne be slasht and cut, who can mend it, or who can borrow another of his neighbour? besides who would desire to have his eyes pushed out of his head with a musket bullet, or a peece of his skull sea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed off with a Cannon bullet? therefore we desire waking, dreaming, &amp; thinking that there
+<pb n="5" facs="tcp:197460:4"/> may be store of Pease as there hath beene alwaies in the Markets, and that wee may live in soft ease, and content without and trouble, but not a word of fighting, for we the Inhabitants of <hi>Silley</hi> are men of weake stomackes that doe hate Gunnes and Gunpowder, and therefore we are willing to bee undone upon any condition rather than to have our dearely beloved bodies suffer the hardnesse of the warres; And therefore wee humbly beseech that howsoever discontents may arise, and some body may be offended, we name no body, yet in a holy and wholsome pitties of our bodies, we desire that the noyse of warres may be silenced, and peace ge<g ref="char:EOLhyphen"/>nerally throughout the land imbraced, and no noyse heard in our <hi>Ierusalem,</hi> but kitching Drums, that is chopping of pothearbs on sunday mornings, that so we may not be put into such feares &amp; terrors to the spoyling of the witts of the Inhabitants of <hi>Silly,</hi> especially women of <hi>Silley</hi> or silly women, who neere use to pray or blesse themselves, but at the sudden report of warres.</p>
+            <p>As for <hi>Militia,</hi> tis a word we understand not, un<g ref="char:EOLhyphen"/>lesse it be displayed in the proper colours of dis<g ref="char:EOLhyphen"/>pleasing and offending in contending about this word, sye upon such words, <hi>Militia</hi> according to the interpretation and desire of the Isl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ders of <hi>Silley</hi> is to set our selves in a posture of eating like Hungarians, drinking Flemmings, and talking of <hi>Hull,</hi> Sir <hi>Iohn Hotham, Yorke,</hi> and the Prentices Re<g ref="char:EOLhyphen"/>solution, which wee commend highly, and doe thinke that there are some of the Island of <hi>Silley</hi> that have as invinsible stomackes, whose knives nor
+<pb n="6" facs="tcp:197460:5"/> swords would not be put up at the affront of a Bar<g ref="char:EOLhyphen"/>ley pudding, nay it is kowne that wee men of <hi>Silley</hi> for want of knives have drawne our swords to open Oysters, what dare we doe then to make honour waite vpon us? as she hath done some tymes upon the men of <hi>Silley</hi> or silley men, but in these times though we desire some what, we desire no honour we love our heads better then to have them fall off, for too much ripenesse of witt and dignity, and therefore we humbly desire that our Petition may be accounted as it is the unseasonable and unreaso<g ref="char:EOLhyphen"/>nable requests of the subiects of <hi>Silley.</hi> Now that you may never know the conclusion of what wee would obtaine, we wil commit the rest to the close custody of silence, and not write any thing more for feare it will be too much laught at, but tis no matter, tis usuall in these times for ignorance to de<g ref="char:EOLhyphen"/>ride wisedome, Coblers and Brownists to jeare Doctors, Rounheads to be wiser than square Caps, and conceited women to be Preachers, and fooles to bee farmers sonnes in despight of Aldermens heyres. We therefore the Inhabitants of <hi>Silley</hi> last of all desire, that none presume to reade this Peti<g ref="char:EOLhyphen"/>tion unlesse hee beleeve that the Islanders of <hi>Silley</hi> will stand stiffe to all Declarations, Protestations, and Reformations as any of the Rounheads or Ca<g ref="char:EOLhyphen"/>veleires who are a thought wiser than we the Inha<g ref="char:EOLhyphen"/>bitants of <hi>Silley.</hi>
+            </p>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
